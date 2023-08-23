@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import Navbar from './Components/Navbar';
-import ProductList from './Components/ProductList';
-import Footer from './Components/Footer';
-import AddItem from './Components/AddItem';
+import Navbar from './Navbar';
+import ProductList from './ProductList';
+import Footer from './Footer';
+import AddItem from './AddItem';
 
 function App() {
   const productList = [
